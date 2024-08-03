@@ -16,6 +16,8 @@ jobs:
             - name: "Success step"
               run: |
                 echo "I will success"
+            - name: "Say goodbye"
+              run: "echo goodbye"
                 
             
        
